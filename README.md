@@ -1,2 +1,3 @@
-# marlin-configuration-for-3D-printer
-you top-to-bottom configuration guide for 3D printer
+# marlin frimware -&- configuration guide
+download marlin 2.0
+configuation guide for your 3D printer
